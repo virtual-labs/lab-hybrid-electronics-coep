@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Electronics and Communication Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications"
+    "link": "https://www.vlab.co.in/broad-area-electronics-and-communications",
+    "code":"EE"
   },
   "lab": "Virtual Hybrid Elecronics Lab",
   "lab_display_name": "Hybrid Electronics Lab",
@@ -80,8 +81,5 @@
       "Institute has an Instrumentation and control department",
       "Institute has an Electronics and electrical engineering department"
     ]
-  },
-  "exp_name": "Implementation of a monostable and astable oscillator using IC 555",
-  "exp_short_name": "monostable-astable-oscillator",
-  "version": "v0.1.0"
+  }
 }
